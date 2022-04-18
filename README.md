@@ -1,0 +1,2 @@
+# AppRestartDemo
+创建定时任务实现App自动重启的Demo，使用Work实现定时任务，当多个Activity时加入全部关闭后再重启
